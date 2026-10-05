@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="StudioLyria.Core/StudioLyria.Core.csproj" />
+  <Project Path="StudioLyria.Infrastructure/StudioLyria.Infrastructure.csproj" />
+</Solution>
